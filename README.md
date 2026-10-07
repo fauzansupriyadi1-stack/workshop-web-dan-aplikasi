@@ -1,2 +1,3 @@
-# woekshop_web_dan_aplikasi
-# workshop-web-dan-aplikasi
+NAMA : FAUZAN SUPRIYADI  
+NRP : 2426600031  
+KELAS : 1 TRI B
